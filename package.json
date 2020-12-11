@@ -41,11 +41,11 @@
     "chai-subset": "^1.6.0",
     "chai-subset-in-order": "^2.1.4",
     "dirty-chai": "^2.0.1",
-    "eslint": "^6.8.0",
+    "eslint": "^7.15.0",
     "eslint-config-airbnb-improved": "^4.0.14",
     "eslint-import-resolver-babel-module": "^5.1.2",
-    "mocha": "^7.0.1",
-    "sinon": "^8.1.1",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.1",
     "sinon-as-promised": "^4.0.3",
     "sinon-chai": "^3.4.0"
   }
